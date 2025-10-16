@@ -2,7 +2,7 @@
 
 > _“Simplicity is the ultimate sophistication.”_ — also true for boolean algebra
 
-**Favorite gate:** TBD
+**Favorite gate:** XOR
 
 ---
 
@@ -39,5 +39,5 @@
 
 ### Workshop Task
 - Update the **Favorite gate** on your branch.
-- Trigger and resolve a conflict when another branch changes the same line.
+- Trigger and resolve a conflict when another branch changes the same line. Coloton thanks for letting me steal TTT time.
 - Push and open a PR from your fork to the upstream repo (use squash & delete).
