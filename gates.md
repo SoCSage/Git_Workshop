@@ -2,7 +2,8 @@
 
 > _“Simplicity is the ultimate sophistication.”_ — also true for boolean algebra
 
-**Favorite gate:** TBD
+**Favorite gate:** XOR
+**Favorite gate of others:** AND
 
 ---
 
